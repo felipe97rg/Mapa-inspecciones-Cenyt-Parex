@@ -1,0 +1,590 @@
+﻿Estructura,Nombre Imagen,Termografia,Imagen normal
+P-01B,Kitaro - Ponyo,image1,image2
+P-02A,Kitaro - Akira Norte,image3,image4
+P-05A,Kitaro - Akira Norte,image5,image6
+P-06A,Kitaro - Akira Norte,image7,image8
+P-05A,Kitaro - Akira Norte,image9,image10
+P-06A,Kitaro - Akira Norte,image11,image12
+P-11A,Kitaro - Akira Norte,image13,image14
+P-13A,Kitaro - Akira Norte,image15,image16
+P-14A,Kitaro - Akira Norte,image17,image18
+P-15A,Kitaro - Akira Norte,image19,image20
+P-01C,Kitaro - Akira Norte,image21,image22
+P-02C,Akira Norte - Akira NE,image23,image24
+P-03C,Akira Norte - Akira NE,image25,image26
+P-04C,Akira Norte - Akira NE,image27,image28
+P-34C,Akira Norte - Akira NE,image29,image30
+P-32C,Akira Norte - Akira NE,image31,image32
+P-31C,Akira Norte - Akira NE,image33,image34
+P-29C y 28C,Akira Norte - Akira NE,image35,image36
+P-002,Bacano - R4,image37,image38
+P-003,Bacano - R4,image39,image40
+P-004,Bacano - R4,image41,image42
+P-005,Bacano - R4,image43,image44
+P-006,Bacano - R4,image45,image46
+P-007,Bacano - R4,image47,image48
+P-008,Bacano - R4,image49,image50
+P-009,Bacano - R4,image51,image52
+P-010,Bacano - R4,image53,image54
+P-011,Bacano - R4,image55,image56
+P-012,Bacano - R4,image57,image58
+P-013,Bacano - R4,image59,image60
+P-03B,Kitaro - Ponyo,image61,image62
+P-04B,Kitaro - Ponyo,image63,image64
+P-05B,Kitaro - Ponyo,image65,image66
+P-05B,Kitaro - Ponyo,image67,image68
+P-06B,Kitaro - Ponyo,image69,image70
+P-07B,Kitaro - Ponyo,image71,image72
+P-08B,Kitaro - Ponyo,image73,image74
+P-09B,Kitaro - Ponyo,image75,image76
+P-10B,Kitaro - Ponyo,image77,image78
+P-11B,Kitaro - Ponyo,image79,image80
+P-12B,Kitaro - Ponyo,image81,image82
+P-13B,Kitaro - Ponyo,image83,image84
+P-14B,Kitaro - Ponyo,image85,image86
+P-15B,Kitaro - Ponyo,image87,image88
+P-16B,Kitaro - Ponyo,image89,image90
+P-17B-2,Kitaro - Ponyo,image91,image92
+P-17B-1,Kitaro - Ponyo,image93,image94
+P-18B,Kitaro - Ponyo,image95,image96
+P-19B,Kitaro - Ponyo,image97,image98
+P-20B,Kitaro - Ponyo,image99,image100
+P-21B,Kitaro - Ponyo,image101,image102
+P-22B,Kitaro - Ponyo,image103,image104
+P-23B,Kitaro - Ponyo,image105,image106
+P-24B,Kitaro - Ponyo,image107,image108
+P-25B,Kitaro - Ponyo,image109,image110
+P-26B,Kitaro - Ponyo,image111,image112
+P-27B,Kitaro - Ponyo,image113,image114
+P-28B,Kitaro - Ponyo,image115,image116
+P-29B,Kitaro - Ponyo,image117,image118
+P-30B,Kitaro - Ponyo,image119,image120
+P-31B,Kitaro - Ponyo,image121,image122
+P-32B,Kitaro - Ponyo,image123,image124
+P-35B,Kitaro - Ponyo,image125,image126
+P-37B,Kitaro - Ponyo,image127,image128
+P-42B,Kitaro - Ponyo,image129,image130
+P-43B,Kitaro - Ponyo,image131,image132
+P-44B,Kitaro - Ponyo,image133,image134
+P-38B,Kitaro - Ponyo,image135,image136
+P-39B,Kitaro - Ponyo,image137,image138
+P-41B,Kitaro - Ponyo,image139,image140
+P-059,Ponyo - R4,image141,image142
+P-058,Ponyo - R4,image143,image144
+P-057,Ponyo - R4,image145,image146
+P-056,Ponyo - R4,image147,image148
+P-055,Ponyo - R4,image149,image150
+P-054,Ponyo - R4,image151,image152
+P-053,Ponyo - R4,image153,image154
+P-052,Ponyo - R4,image155,image156
+P-051,Ponyo - R4,image157,image158
+P-050,Ponyo - R4,image159,image160
+P-049,Ponyo - R4,image161,image162
+P-048,Ponyo - R4,image163,image164
+P-047,Ponyo - R4,image165,image166
+P-046,Ponyo - R4,image167,image168
+P-045,Ponyo - R4,image169,image170
+P-044,Ponyo - R4,image171,image172
+P-043,Ponyo - R4,image173,image174
+P-043,Ponyo - R4,image175,image176
+P-042,Ponyo - R4,image177,image178
+P-041,Ponyo - R4,image179,image180
+P-039,Ponyo - R4,image181,image182
+P-038,Ponyo - R4,image183,image184
+P-037,Ponyo - R4,image185,image186
+P-036,Ponyo - R4,image187,image188
+P-035,Ponyo - R4,image189,image190
+P-034,Ponyo - R4,image191,image192
+P-033,Ponyo - R4,image193,image194
+P-032,Ponyo - R4,image195,image196
+P-031,Ponyo - R4,image197,image198
+P-030,Ponyo - R4,image199,image200
+P-029,Ponyo - R4,image201,image202
+P-028,Ponyo - R4,image203,image204
+P-027,Ponyo - R4,image205,image206
+P-026,Ponyo - R4,image207,image208
+P-025,Ponyo - R4,image209,image210
+P-024,Ponyo - R4,image211,image212
+P-023,Ponyo - R4,image213,image214
+P-022,Ponyo - R4,image215,image216
+P-020,Bacano - R4,image217,image218
+P-019,Bacano - R4,image219,image220
+P-018,Bacano - R4,image221,image222
+P-017,Bacano - R4,image223,image224
+P-016,Bacano - R4,image225,image226
+P-80J,R4 - Jacana,image227,image228
+P-79J,R4 - Jacana,image229,image230
+P-78J,R4 - Jacana,image231,image232
+P-76J,R4 - Jacana,image233,image234
+P-75J,R4 - Jacana,image235,image236
+P-74J,R4 - Jacana,image237,image238
+P-73J,R4 - Jacana,image239,image240
+P-72J,R4 - Jacana,image241,image242
+P-71J,R4 - Jacana,image243,image244
+P-70J,R4 - Jacana,image245,image246
+P-68J,R4 - Jacana,image247,image248
+P-66J,R4 - Jacana,image249,image250
+P-65J,R4 - Jacana,image251,image252
+P-64J,R4 - Jacana,image253,image254
+P-62J,R4 - Jacana,image255,image256
+P-60J,R4 - Jacana,image257,image258
+P-59J,R4 - Jacana,image259,image260
+P-58J,R4 - Jacana,image261,image262
+P-57J,R4 - Jacana,image263,image264
+P-56J,R4 - Jacana,image265,image266
+P-55J,R4 - Jacana,image267,image268
+P-54J,R4 - Jacana,image269,image270
+P-53J,R4 - Jacana,image271,image272
+P-52J,R4 - Jacana,image273,image274
+P-51J,R4 - Jacana,image275,image276
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
