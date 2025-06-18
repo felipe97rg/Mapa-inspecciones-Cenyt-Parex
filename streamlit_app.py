@@ -273,7 +273,7 @@ with col_f2_2:
                 icon=folium.Icon(icon='info-sign')
             ).add_to(mapa)
 
-    map_data = st_folium(mapa , use_container_width=True, returned_objects=["last_object_clicked_popup"])
+    map_data = st_folium(mapa ,height= 300,use_container_width=True, returned_objects=["last_object_clicked_popup"])
 
 # =======================
 # Fila 3: Tabla + Carrusel + Imagen
