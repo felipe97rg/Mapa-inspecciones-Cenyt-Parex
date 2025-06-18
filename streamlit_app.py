@@ -273,7 +273,7 @@ with col_f2_2:
                 icon=folium.Icon(icon='info-sign')
             ).add_to(mapa)
 
-    map_data = st_folium(mapa, height= 350, use_container_width=True, returned_objects=["last_object_clicked_popup"])
+    map_data = st_folium(mapa, height= 450, use_container_width=True, returned_objects=["last_object_clicked_popup"])
 
 # =======================
 # Fila 3: Tabla + Carrusel + Imagen
@@ -300,7 +300,7 @@ with col_f3_1:
             seleccion = df[df['estructura'].astype(str).str.strip() == estructura_val]
 
             if not seleccion.empty:
-                st.dataframe(seleccion.transpose(), use_container_width=True, height=400)
+                st.dataframe(seleccion.transpose(), use_container_width=True, height=800)
             else:
                 st.warning(f"No se encontró estructura: {estructura_val}")
         else:
